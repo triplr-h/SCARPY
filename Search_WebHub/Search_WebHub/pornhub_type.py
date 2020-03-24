@@ -12,6 +12,6 @@ PH_TYPES = [
     # Examples of certain categories
     # 'video?c=1',  # Category = Asian
     # 'video?c=111',  # Category = Japanese
-    #'English',  #搜索English
+    'English',  #搜索English
     '测试',  #中文测试
 ]

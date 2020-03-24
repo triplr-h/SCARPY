@@ -5,7 +5,7 @@ import json
 
 
 class UserAgentMiddleware(object):
-    """ 换User-Agent """
+    """ User-Agent """
 
     def process_request(self, request, spider):
         agent = UserAgent().random
